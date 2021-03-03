@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+  font-size:562.5%;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
 }
@@ -49,13 +50,11 @@ h3 {
   bottom: 300px;
 }
 
-.fitness-photo{
-  border-radius:50%
 
-.gaming-photo{
-    border-radius: 50%
+.game{
+    border-radius:50%
   }
 
   .sovathya-sar {
-    border-radius: 40%
+    border-radius:40%
   }
