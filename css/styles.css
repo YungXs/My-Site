@@ -2,22 +2,29 @@ body {
   margin: 0px;
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
+  font-size: 100%;
 }
 
 h1 {
-  font-size:562.5%;
-  margin-top: 0;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height:2;
 }
 
 h2 {
   margin-top: 0;
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bold;
 }
 
 h3 {
   margin-top: 0;
   font-family: 'Montserrat', sans-serif;
+  color: #11999E;
 }
 
 .top-container {
@@ -50,11 +57,44 @@ h3 {
   bottom: 300px;
 }
 
+.game {
+  width:25%;
+  margin-right:30px;
+  float:left;
+}
 
-.game{
-    border-radius:50%
-  }
+.fitness{
+  width:25%;
+  margin-left:30px;
+  float:right;
+}
 
-  .sovathya-sar {
-    border-radius:40%
-  }
+.sovathya-sar {
+  border-radius: 40%
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.contact-me {
+  color: #11999E
+}
+
+.skill-row{
+  display: block;
+   margin-left: 300px;
+   margin-right: 300px;
+   width:50%
+   margin-top:100px;
+   margin-bottom:100px;
+   text-align:left;
+   line-height:2;
+
+}
+
+.game-description{
+  clear:top;
+}
+
+game-description
