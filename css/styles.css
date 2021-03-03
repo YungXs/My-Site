@@ -49,6 +49,13 @@ h3 {
   bottom: 300px;
 }
 
-.sovathya-sar{
-  border-radius:40%
-}
+.fitness-photo{
+  border-radius:50%
+
+.gaming-photo{
+    border-radius: 50%
+  }
+
+  .sovathya-sar {
+    border-radius: 40%
+  }
