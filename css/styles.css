@@ -35,11 +35,11 @@ h3 {
   background-color: #c5d7bd;
   position: relative;
   padding-top: 100px;
-  margin-bottom: 50px;
 }
 
 .middle-container {
   background-color: #EAF6F6;
+  padding-top:100px;
 }
 
 .bottom-container {
@@ -81,7 +81,7 @@ h3 {
 }
 
 .footer-link {
-  color: white;
+  color: #white;
   padding:10px;
 }
 
